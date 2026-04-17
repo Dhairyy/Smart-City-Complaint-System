@@ -1,0 +1,23 @@
+# Eclipse files
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build folders
+bin/
+build/
+target/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL connector (IMPORTANT)
+*.jar
