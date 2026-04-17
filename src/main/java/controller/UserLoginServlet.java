@@ -45,7 +45,7 @@ public class UserLoginServlet extends HttpServlet {
 	            response.getWriter().println("Invalid Login");
 	        }
 
-	        con.close(); // ✅ correct place
+	        con.close(); 
 
 	    } catch(Exception e) {
 	        e.printStackTrace();
