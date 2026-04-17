@@ -79,7 +79,7 @@ This project follows the **MVC (Model-View-Controller)** pattern:
 ![Admin Login](ScreenShots/admin-login.png)
 
 ### 🛠️ Admin Panel
-![Admin](screenshots/admin-panel.png)
+![Admin](ScreenShots/admin-panel.png)
 
 ---
 
