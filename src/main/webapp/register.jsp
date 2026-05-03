@@ -33,7 +33,7 @@
         </form>
 
         <div class="text-center mt-3">
-            <a href="index.jsp">Already have an account? Login</a>
+            <a href="login.jsp">Already have an account? Login</a>
         </div>
 
     </div>
