@@ -95,8 +95,6 @@ This project follows the **MVC (Model-View-Controller)** pattern:
 ## 👨‍💻 Author
 
 - Dhairya Parmar
-- Aryan Parmar
-- Nikunj Nanera
 
 ---
 
